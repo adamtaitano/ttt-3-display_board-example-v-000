@@ -7,5 +7,6 @@ def display_board
   row = ""
   space = line
   
-  row
+  row.insert(0,cell)
+  row.insert()
 end
